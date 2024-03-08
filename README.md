@@ -12,5 +12,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayan-XD&layout=compact" alt="Top language">
 
-
-![template_s](https://github.com/Strv-BOT/Baner-Budak-Zuck.jpg)
+![logo](https://github.com/Strv-BOT/Strv-BOT/blob/main/Baner-Budak-Zuck.jpg)
