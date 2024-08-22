@@ -7,7 +7,7 @@ Helle Everyone My Name 𝗦𝘁𝗿𝗼𝘃𝗺𝗶𝗿𝘃𝗶𝗮𝘀𝗸𝗮 
 
 * Contack  : bot2009oot@gmail.com
 * Telegram : @Strv_In_Here
-# 𝗔𝗻𝗮𝗹𝗶𝘁𝗶𝗰𝗸 𝗚𝗿𝗮𝗳𝗶𝗸
+# Statistik 𝗚𝗿𝗮𝗳𝗶𝗸
 ![github stats](https://github-readme-stats.vercel.app/api?username=Strv-BOT&show_icons=true&theme=dark)
 # Support By
 <img src="https://github.com/Strv-BOT/Strv-BOT/blob/main/FakeSecretCode.png" alt="logo" width="250"/>
