@@ -11,6 +11,3 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Strv-BOT&show_icons=true&theme=dark)
 # Support By
 <img src="https://github.com/Strv-BOT/Strv-BOT/blob/main/FakeSecretCode.png" alt="logo" width="250"/>
-
-# Thanks To
-<img src="https://github.com/Strv-BOT/Strv-BOT/blob/main/Baner-Budak-Zuck.jpg" alt="logo" width="500"/>
