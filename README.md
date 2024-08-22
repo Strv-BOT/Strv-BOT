@@ -10,6 +10,4 @@
 # 𝗔𝗻𝗮𝗹𝗶𝘁𝗶𝗰𝗸 𝗚𝗿𝗮𝗳𝗶𝗸
 ![github stats](https://github-readme-stats.vercel.app/api?username=Strv-BOT&show_icons=true&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayan-XD&layout=compact" alt="Top language">
-
 ![logo](https://github.com/Strv-BOT/Strv-BOT/blob/main/Baner-Budak-Zuck.jpg)
