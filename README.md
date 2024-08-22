@@ -1,5 +1,5 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗧𝗼 𝗠𝘆 𝗚𝗶𝘁𝗵𝘂𝗯
-𝗣𝗲𝗿𝗸𝗲𝗻𝗮𝗹𝗸𝗮𝗻 𝗦𝗮𝘆𝗮 𝗦𝘁𝗿𝗼𝘃𝗺𝗶𝗿𝘃𝗶𝗮𝘀𝗸𝗮 𝗔𝘁𝗮𝘂
+# 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗧𝗼 𝗠𝘆 𝗚𝗶𝘁𝗵𝘂𝗯
+Helle Everyone My Name 𝗦𝘁𝗿𝗼𝘃𝗺𝗶𝗿𝘃𝗶𝗮𝘀𝗸𝗮 or
  [𝗦𝘁𝗿𝘃-𝗕𝗢𝗧](https://github.com/Strv-BOT)
 * Sosial Media Support
 
