@@ -9,5 +9,5 @@
 * Telegram : @Strv_In_Here
 # 𝗔𝗻𝗮𝗹𝗶𝘁𝗶𝗰𝗸 𝗚𝗿𝗮𝗳𝗶𝗸
 ![github stats](https://github-readme-stats.vercel.app/api?username=Strv-BOT&show_icons=true&theme=dark)
-
-<img src="https://github.com/Strv-BOT/Strv-BOT/blob/main/FakeSecretCode.png" alt="logo" width="100"/>
+# Support By
+<img src="https://github.com/Strv-BOT/Strv-BOT/blob/main/FakeSecretCode.png" alt="logo" width="300"/>
