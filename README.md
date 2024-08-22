@@ -10,4 +10,4 @@
 # 𝗔𝗻𝗮𝗹𝗶𝘁𝗶𝗰𝗸 𝗚𝗿𝗮𝗳𝗶𝗸
 ![github stats](https://github-readme-stats.vercel.app/api?username=Strv-BOT&show_icons=true&theme=dark)
 
-![logo](https://github.com/Strv-BOT/Strv-BOT/blob/main/FakeSecretCode.png)
+<img src="https://github.com/Strv-BOT/Strv-BOT/blob/main/FakeSecretCode.png" alt="logo" width="100"/>
